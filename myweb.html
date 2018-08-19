@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>    
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+	<title>Arseniy's Web Page</title>
+
+<style>
+    h1 {font-family: Myriad Pro; font-size: 48pt; color: black}
+    h2 {font-family: Myriad Pro; font-size: 18pt;}
+    body {font-family: Myriad Pro;}
+    table {font-size: 14pt;}
+</style>
+</head>
+
+
+<body>
+<h1 align="center">Welcome</h1>
+<table border=1px align="center">
+    <tr>
+    <td>
+         <div id="map_area" style="width: 700px; height: 700px"></div>
+    </td>
+    </tr>
+</table>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSF6B27R9e3B-AfuupS3sHCp9jhP6ki44&callback=initMap" defer></script>
+<script src="json_maps.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+<!-- <script> -->
+<!--     function myFunction() -->
+<!--     { -->
+<!--         var row, col; -->
+<!--         var num = document.getElementById("val1").value; -->
+<!--         var res = ""; -->
+<!--          -->
+<!--         for(row = 1; row <= num; row++) -->
+<!--         { -->
+<!--             res += "<td>" + String(row) + "</td>";  -->
+<!--                               -->
+<!--             for(col = 2; col <= num; col++) -->
+<!--             {  -->
+<!-- //                res += "<td>" + String(col) + "</td>"; -->
+<!--                 res += "<td>" + String(row * col) + "</td>" -->
+<!--             } -->
+<!--             res = "<tr>" + res + "</tr>"; -->
+<!--              -->
+<!--         }       -->
+<!--          -->
+<!--         document.getElementById("res1").innerHTML = "<table border='1' style='margin-left:400px' width='500px' height='50px' frame='box'>" + res + "</table>"        -->
+<!--     } -->
+<!-- </script> -->
+<!--  -->
+<!--     <h1><center>Welcome</center></h1> -->
+<!--  -->
+<!-- <table style="margin-left:400px; margin-top:200px" width="500px" height="50px" frame="box"> -->
+<!--     <tr>         -->
+<!--         <th> -->
+<!--              <form> -->
+<!--              Enter a number:  <input type="number" id="val1" value="" min="1"> -->
+<!--              <input type="button" value="submit" onclick="myFunction()"> -->
+<!--              </form> -->
+<!--         </th> -->
+<!--     </tr> -->
+<!-- </table> -->
+<!--  -->
+<!-- <div id="res1"> -->
+<!-- <h2><center>The answer will be below</center><h2> -->
+<!-- </div> -->

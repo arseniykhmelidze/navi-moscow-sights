@@ -1,0 +1,190 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+      <title>Генератор Навиадреса</title>
+      <meta name="viewport" content="width=device-width">
+      <meta charset="utf-8">
+    
+      <style>
+        body 
+        {
+          font-family: Myriad Pro;
+          margin: 0px;
+          padding: 0px;
+          text-align: left;
+        }
+        h1, h2, h4
+        {
+          text-align: center;
+        }
+        
+        h4
+        {
+          color: red;
+        }
+        
+        canvas 
+        {
+          padding-left: 0;
+          padding-right: 0;
+          margin-left: auto;
+          margin-right: auto;
+          display: block;
+        }
+        
+        /*   BUTTON DESIGN   */
+        .button 
+        {
+          position: relative;
+          left: 460px;
+          margin-left: auto;
+          margin-right: auto;
+          
+          display: inline-block;
+          border-radius: 4px;
+          background-color: #f4511e;
+          border: none;
+          color: #FFFFFF;
+          text-align: center;
+          font-size: 28px;
+          padding: 20px;
+          width: 400px;
+          transition: all 0.5s;
+          cursor: pointer;
+          margin: 5px;
+        }
+
+        .button span 
+        {
+          cursor: pointer;
+          display: inline-block;
+          position: relative;
+          transition: 0.5s;
+        }
+
+        .button span:after 
+        {
+          content: '»';
+          position: absolute;
+          opacity: 0;
+          top: 0;
+          right: -20px;
+          transition: 0.5s;
+        }
+
+        .button:hover span 
+        {
+          padding-right: 25px;
+        }
+
+        .button:hover span:after 
+        {
+          opacity: 1;
+          right: 0;
+        }
+        
+        li
+        {
+          color: white;
+        }
+        
+      </style>
+      
+      <link rel="stylesheet" type="text/css" href="jquery.fullpage.css" />
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <script src="jquery.easings.min.js"></script>
+      <script type="text/javascript" src="jquery.fullpage.min.js"></script>
+
+      <script type="text/javascript">
+          $(document).ready(function() 
+          {
+            $('#fullpage').fullpage({
+              sectionsColor: ['#4BBFC3', '#bdbdbd', '#BCED91'],
+            });
+          });
+      </script>
+  </head>
+  
+  <body>
+    <div id="fullpage">
+        <div class="section">
+          <h1>Генератор лого Naviaddress</h1> 
+    	    <h2>Инструкция по применению:</h2> 
+
+        	<table align="center" width="500px" height="50px">
+          			<th>
+          				 	<ol>
+                      <li>Введите номер вашего Навиадреса ([код региона] + n-значный номер)</li>
+                      <li>Проверьте правильность ввода</li> 
+                      <li>Нажмите на кнопку "Получить Навиадрес"</li>
+                      <li>На новой странице сохраните логотип с помощью правой кнопкой мыши</li>
+                      <li>Если вам нужна помощь по имплементации кнопки в шапку подписи, то ссылка на инструкцию сразу после лого-генератора</li> 
+                    </ol>
+                    <h2>Готовы? Тогда листайте ниже!<h2>
+                    <h4>Рекомендация: сайт лучше всего работает при полном окне браузера</h4>
+          			</th>
+        	  </table>
+        </div>
+        
+        
+        <div class="section">
+      	  
+            <table align="center" width="500px" height="50px">
+            			<th>
+            				 	Введите Навиадрес: <input type="text" id="address" maxlength="13">
+            			</th>
+            </table>
+            
+            <img id="Naviaddress" src="http://ak-datacon.1gb.ru/logo/navi_logo.jpg" width="735" height="113" style="display: none">
+            <canvas class="center" id="myCanvas" width="735" height="113"></canvas>
+            
+            <a class="button" id="download" download="Canvas.png" href="#"><span>Получить Навиадрес</span></a>
+          
+        </div>
+        
+        
+        <div class="section">
+            <h1>Инструкция по имплементации кнопки Навиадрес</h1>
+            <a class="button" href="https://drive.google.com/uc?export=&confirm=no_antivirus&id=0B7Z3BVEXcOvQQjk2VmpDMUp4UlU"><span>Нажми меня</span></a>
+
+        </div>
+    </div>
+    
+       <script>
+      
+            // CREATING CANVAS
+            var canvas = document.getElementById('myCanvas');
+            var context = canvas.getContext('2d');
+
+            var address = "";
+            var $address = document.getElementById('address');
+            $address.value = address;
+            $address.addEventListener("keyup", function()
+            {
+              // LINKING IMAGE
+              address=this.value;
+              var img = document.getElementById("Naviaddress");
+              context.drawImage(img, 10, 10);
+              
+              // ADDING DYNAMIC TEXT
+              context.font = '28pt Helvetica';
+              context.fillStyle = '#545454';
+              context.fillText(address, 445, 77);
+            }, false);
+
+          
+            function dlCanvas() 
+            {
+              var dt = canvas.toDataURL('image/png');
+              /* Change MIME type to trick the browser to downlaod the file instead of displaying it */
+              dt = dt.replace(/^data:image\/[^;]*/, 'data:application/octet-stream');
+
+              /* In addition to <a>'s "download" attribute, you can define HTTP-style headers */
+              dt = dt.replace(/^data:application\/octet-stream/, 'data:application/octet-stream;headers=Content-Disposition%3A%20attachment%3B%20filename=Canvas.png');
+
+              this.href = dt;
+            };
+            document.getElementById("download").addEventListener('click', dlCanvas, false);
+        </script>
+  </body>
+</html> 

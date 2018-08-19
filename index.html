@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Москва Необъятная</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    
+    <style>
+        html, body 
+        {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #map 
+        {
+            height: 50%;
+            width: 50%;
+        }
+        
+        div.location
+        {
+            cursor: pointer;
+        }
+        
+        h1 {font-family: Myriad Pro; font-size: 36pt; color: white}
+        h2 {font-family: Myriad Pro; font-size: 24pt; color: orange}
+        h3 {font-family: Myriad Pro; font-size: 18pt; color: yellow}
+        h4 {font-family: Myriad Pro; font-size: 12pt; color: aqua}
+        h5 {font-family: Myriad Pro; font-size: 24pt; color: white}
+        body {font-family: Baskerville;}
+        th, td {border-bottom: 1px solid #ddd;}
+    </style>
+</head>
+
+
+<body background="http://www.wallpaperup.com/uploads/wallpapers/2012/08/04/8548/big_thumb_07f4032eddf2777664a0ec1431a34a56.jpg">
+
+<h1><center>Москва необъятная</center></h1>
+<h5><center>Топ туристических мест на Google Maps</center></h5>
+
+
+<table border=1px align="center">
+    <tr>
+        <td>
+             <div id="map_area" style="width: 700px; height: 700px"></div>
+        </td>
+        <td>
+            <div style="overflow: auto; height: 700px; width: 320px;">
+            <table style="width: 300px;">
+            
+            <tr><h2>Список мест<h2></tr>
+            <tr><td><h3>Достопримечательности</h3></td></tr>
+            <tr><td><h4><div id="val_0" class="location" onclick="moveToLocation()">Московский Кремль</div></h4></td></tr>
+            <tr><td><h4><div id="val_1" class="location" onclick="moveToLocation()">Красная Площадь</div></h4></td></tr>
+            <tr><td><h4><div id="val_2" class="location" onclick="moveToLocation()">Александровский сад</div></h4></td></tr>
+            <tr><td><h4><div id="val_3" class="location" onclick="moveToLocation()">Большой театр</div></h4></td></tr>
+            <tr><td><h4><div id="val_4" class="location" onclick="moveToLocation()">Отель Метрополь</div></h4></td></tr>
+            <tr><td><h4><div id="val_5" class="location" onclick="moveToLocation()">Националь</div></h4></td></tr>
+            <tr><td><h4><div id="val_6" class="location" onclick="moveToLocation()">Российская государственная библиотека</div></h4></td></tr>
+            <tr><td><h4><div id="val_7" class="location" onclick="moveToLocation()">Храм Христа Спасителя</div></h4></td></tr>
+            <tr><td><h4><div id="val_8" class="location" onclick="moveToLocation()">Патриарший мост</div></h4></td></tr>
+            <tr><td><h4><div id="val_9" class="location" onclick="moveToLocation()">Красный Октябрь</div></h4></td></tr>
+            <tr><td><h4><div id="val_10" class="location" onclick="moveToLocation()">Болотная площадь</div></h4></td></tr>
+            <tr><td><h4><div id="val_11" class="location" onclick="moveToLocation()">Гостиный Двор</div></h4></td></tr>
+            <tr><td><h4><div id="val_12" class="location" onclick="moveToLocation()">Центральный Детский Магазин на Лубянке</div></h4></td></tr>
+            <tr><td><h4><div id="val_13" class="location" onclick="moveToLocation()">ГУМ</div></h4></td></tr>
+            <tr><td><h4><div id="val_14" class="location" onclick="moveToLocation()">Государственный исторический музей</div></h4></td></tr>
+            <tr><td><h4><div id="val_15" class="location" onclick="moveToLocation()">Лубянка</div></h4></td></tr>
+            <tr><td><h4><div id="val_16" class="location" onclick="moveToLocation()">Дом Арсения Морозова</div></h4></td></tr>
+            <tr><td><h4><div id="val_17" class="location" onclick="moveToLocation()">Спасопесковская площадь</div></h4></td></tr>
+            <tr><td><h4><div id="val_18" class="location" onclick="moveToLocation()">Дом Мельникова</div></h4></td></tr>
+            <tr><td><h4><div id="val_19" class="location" onclick="moveToLocation()">Министерство иностранных дел России</div></h4></td></tr>
+            <tr><td><h4><div id="val_20" class="location" onclick="moveToLocation()">Большое Вознесение</div></h4></td></tr>
+            <tr><td><h4><div id="val_21" class="location" onclick="moveToLocation()">Дом Горького</div></h4></td></tr>
+            <tr><td><h4><div id="val_22" class="location" onclick="moveToLocation()">Патриаршие пруды</div></h4></td></tr>
+            <tr><td><h4><div id="val_23" class="location" onclick="moveToLocation()">ГБУК Музей М.А Булгакова</div></h4></td></tr>
+            <tr><td><h4><div id="val_24" class="location" onclick="moveToLocation()">Дом генерал-губернаторов (Мэрия Москвы)</div></h4></td></tr>
+            <tr><td><h4><div id="val_25" class="location" onclick="moveToLocation()">Телеграф</div></h4></td></tr>
+            <tr><td><h4><div id="val_26" class="location" onclick="moveToLocation()">Московская государственная консерватория имени П. И. Чайковского</div></h4></td></tr>
+            <tr><td><h4><div id="val_27" class="location" onclick="moveToLocation()">Англиканская церковь Святого Андрея</div></h4></td></tr>
+            <tr><td><h4><div id="val_28" class="location" onclick="moveToLocation()">Сандуны</div></h4></td></tr>
+            <tr><td><h4><div id="val_29" class="location" onclick="moveToLocation()">Сад Эрмитаж</div></h4></td></tr>
+            <tr><td><h4><div id="val_30" class="location" onclick="moveToLocation()">Усадьба Салтыковых-Чертковых</div></h4></td></tr>
+            <tr><td><h4><div id="val_31" class="location" onclick="moveToLocation()">Самый старый жилой дом</div></h4></td></tr>
+            <tr><td><h4><div id="val_32" class="location" onclick="moveToLocation()">Храм Архангела Гавриила</div></h4></td></tr>
+            <tr><td><h4><div id="val_33" class="location" onclick="moveToLocation()">Чистые пруды</div></h4></td></tr>
+            <tr><td><h4><div id="val_34" class="location" onclick="moveToLocation()">Дом-яйцо</div></h4></td></tr>
+            <tr><td><h4><div id="val_35" class="location" onclick="moveToLocation()">Евангелическо-Лютеранский Кафедральный Собор Святых Петра И Павла</div></h4></td></tr>
+            <tr><td><h4><div id="val_36" class="location" onclick="moveToLocation()">Морозовский садик</div></h4></td></tr>
+            <tr><td><h4><div id="val_37" class="location" onclick="moveToLocation()">Солянка, доходники, галерея</div></h4></td></tr>
+            <tr><td><h4><div id="val_38" class="location" onclick="moveToLocation()">Иоанно-Предтеченский Женский Монастырь</div></h4></td></tr>
+            <tr><td><h4><div id="val_39" class="location" onclick="moveToLocation()">Хитровка</div></h4></td></tr>
+            <tr><td><h4><div id="val_40" class="location" onclick="moveToLocation()">Храм Трех Святителей На Кулишках</div></h4></td></tr>
+            <tr><td><h4><div id="val_41" class="location" onclick="moveToLocation()">Kotelnicheskaya</div></h4></td></tr>
+            <tr><td><h4><div id="val_42" class="location" onclick="moveToLocation()">Государственная Третьяковская галерея</div></h4></td></tr>
+            <tr><td><h4><div id="val_43" class="location" onclick="moveToLocation()">Марфо-Мариинская обитель</div></h4></td></tr>
+            <tr><td><h4><div id="val_44" class="location" onclick="moveToLocation()">Парк искусств и Крымская набережная</div></h4></td></tr>
+            <tr><td><h4><div id="val_45" class="location" onclick="moveToLocation()">Бункер-42 на Таганке</div></h4></td></tr>
+            <tr><td><h4><div id="val_46" class="location" onclick="moveToLocation()">Государственный центральный музей современной истории России</div></h4></td></tr>
+            <tr><td><h4><div id="val_47" class="location" onclick="moveToLocation()">Парк культуры и отдыха им. М.Горькогo (ЦПКИО Им. Горького)</div></h4></td></tr>
+            <tr><td><h4><div id="val_48" class="location" onclick="moveToLocation()">Новодевичий Монастырь</div></h4></td></tr>
+            <tr><td><h4><div id="val_49" class="location" onclick="moveToLocation()">Нескучный сад</div></h4></td></tr>
+            <tr><td><h4><div id="val_50" class="location" onclick="moveToLocation()">Донской монастырь</div></h4></td></tr>
+            <tr><td><h4><div id="val_51" class="location" onclick="moveToLocation()">Спасо-Андроников монастырь</div></h4></td></tr>
+            <tr><td><h4><div id="val_52" class="location" onclick="moveToLocation()">Арма завод</div></h4></td></tr>
+            <tr><td><h4><div id="val_53" class="location" onclick="moveToLocation()">Еврейский музей и центр толерантности</div></h4></td></tr>
+            <tr><td><h4><div id="val_54" class="location" onclick="moveToLocation()">Российские ипподромы</div></h4></td></tr>
+            <tr><td><h4><div id="val_55" class="location" onclick="moveToLocation()">Коломенское</div></h4></td></tr>
+            <tr><td><h4><div id="val_56" class="location" onclick="moveToLocation()">Смотровая площадка на Воробьёвых горах</div></h4></td></tr>
+            <tr><td><h4><div id="val_57" class="location" onclick="moveToLocation()">Выставка достижений народного хозяйства (ВДНХ)</div></h4></td></tr>
+            <tr><td><h4><div id="val_58" class="location" onclick="moveToLocation()">Серебряный Бор</div></h4></td></tr>
+            <tr><td><h4><div id="val_59" class="location" onclick="moveToLocation()">Кремль в Измайлово и вернисаж</div></h4></td></tr>
+            <tr><td><h4><div id="val_60" class="location" onclick="moveToLocation()">ПКиО Кузьминки</div></h4></td></tr>
+            <tr><td><h4><div id="val_61" class="location" onclick="moveToLocation()">Музей-заповедник Царицыно</div></h4></td></tr>
+            <tr><td><h4><div id="val_62" class="location" onclick="moveToLocation()">Пушкинская площадь</div></h4></td></tr>
+            <tr><td><h4><div id="val_63" class="location" onclick="moveToLocation()">Планетарий</div></h4></td></tr>
+            <tr><td><h4><div id="val_64" class="location" onclick="moveToLocation()">Московский Зоопарк</div></h4></td></tr>
+            <tr><td><h4><div id="val_65" class="location" onclick="moveToLocation()">МХТ</div></h4></td></tr>
+            <tr><td><h4><div id="val_66" class="location" onclick="moveToLocation()">ГМИИ им. Пушкина</div></h4></td></tr>
+            <tr><td><h4><div id="val_67" class="location" onclick="moveToLocation()">Музей-усадьба Островского А.Н.</div></h4></td></tr>
+            <tr><td><h4><div id="val_68" class="location" onclick="moveToLocation()">Музей космонавтики</div></h4></td></tr>
+            <tr><td><h4><div id="val_69" class="location" onclick="moveToLocation()">Музей современного искусства Гараж</div></h4></td></tr>
+            <tr><td><h4><div id="val_70" class="location" onclick="moveToLocation()">Музей игровых автоматов</div></h4></td></tr>
+            <tr><td><h4><div id="val_71" class="location" onclick="moveToLocation()">Музей Политех</div></h4></td></tr>
+            <tr><td><h4><div id="val_72" class="location" onclick="moveToLocation()">Усадьба Кусково</div></h4></td></tr>
+            <tr><td><h4><div id="val_73" class="location" onclick="moveToLocation()">Останкино</div></h4></td></tr>
+            <tr><td><h4><div id="val_74" class="location" onclick="moveToLocation()">Соборная мечеть</div></h4></td></tr>
+            <tr><td><h4><div id="val_75" class="location" onclick="moveToLocation()">Шуховская башня</div></h4></td></tr>
+            <tr><td><h3>Магазины и рынки</h3></td></tr>
+            <tr><td><h3>Кино, театры</h3></td></tr>
+            <tr><td><h3>Спорт, развлечения, красота</h3></td></tr>
+            <tr><td><h3>Рестораны, кафе, бары</h3></td></tr>
+            </div>
+        </td>
+        </table>
+    </tr>
+</table>
+
+<div id="locaiton_list"><h4>This is my DIV element.<h4></div>
+
+
+<script src="maps_layer.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAyTPHtZjEOFOv913m26oxw5SOsu_33vag&callback=initMap" async defer></script>
+
+
+<!-- <div id="instafeed"> -->
+<!-- </div> -->
+<!-- <script src="http://matthewelsom.com/assets/js/libs/instafeed.min.js"></script> -->
+
+</body>
+</html>

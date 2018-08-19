@@ -1,0 +1,2300 @@
+{
+    "type": "FeatureCollection",
+    "features": 
+    [
+        {
+            "type": "Feature",
+            "id": "1",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.617499, 55.752023]
+            },
+            "properties": 
+            {
+                "name": "Московский Кремль (Moscow Kremlin)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "2",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.620843, 55.753908]
+            },
+            "properties": 
+            {
+                "name": "Красная Площадь (Red Square)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "3",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.613801, 55.751899]
+            },
+            "properties": 
+            {
+                "name": "Александровский сад (Alexander's Garden)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "4",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.618667, 55.760127]
+            },
+            "properties": 
+            {
+                "name": "Большой Театр (Bolshoi Theater)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "5",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.621684, 55.758391]
+            },
+            "properties": 
+            {
+                "name": "Отель Метрополь (Metropol Hotel)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "6",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.614113, 55.756702]
+            },
+            "properties": 
+            {
+                "name": "Националь (Hotel National)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "7",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.608879, 55.751770]
+            },
+            "properties": 
+            {
+                "name": "Российская государственная библиотека (Russian State Library)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "8",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.605519, 55.744639]
+            },
+            "properties": 
+            {
+                "name": "Храм Христа Спасителя (Cathedral of Christ the Savior)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "9",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.608400, 55.743482]
+            },
+            "properties": 
+            {
+                "name": "Патриарший мост (Patriarch Bridge)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "10",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.609063, 55.740396]
+            },
+            "properties": 
+            {
+                "name": "Красный Октябрь (Red October factory)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "11",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.616702, 55.745155]
+            },
+            "properties": 
+            {
+                "name": "Болотная площадь (Bolotnaya square)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "12",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.626021, 55.753592]
+            },
+            "properties": 
+            {
+                "name": "Гостиный Двор (Moscow's Gostiny Dvor)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "13",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.625109, 55.760159]
+            },
+            "properties": 
+            {
+                "name": "Центральный Детский Магазин на Лубянке (Central Child's Department Store)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "14",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.621341, 55.754694]
+            },
+            "properties": 
+            {
+                "name": "ГУМ (GUM)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "15",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.617933, 55.755340]
+            },
+            "properties": 
+            {
+                "name": "Государственный исторический музей (State Historical Museum)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "16",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.626581, 55.759660]
+            },
+            "properties": 
+            {
+                "name": "Лубянка (Lubyanka)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "17",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.603572, 55.753267]
+            },
+            "properties": 
+            {
+                "name": "Дом Арсения Морозова (Arseniy Morozov's House)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "18",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.587505, 55.750002]
+            },
+            "properties": 
+            {
+                "name": "Спасопесковская площадь (Spasopeskovskaya Square)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "19",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.589405, 55.748098]
+            },
+            "properties": 
+            {
+                "name": "Дом Мельникова (Melnikov's House)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "20",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.584483, 55.746113]
+            },
+            "properties": 
+            {
+                "name": "Министерство иностранных дел России (Ministry of Foreign Affairs)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "21",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.595711, 55.757715]
+            },
+            "properties": 
+            {
+                "name": "Большое Вознесение (Greater Church of the Ascension)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "22",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.596301, 55.758165]
+            },
+            "properties": 
+            {
+                "name": "Дом Горького (Muzey Gorkogo)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "23",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.592264, 55.763793]
+            },
+            "properties": 
+            {
+                "name": "Патриаршие пруды (Patriarch Ponds)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "24",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.594046, 55.767006]
+            },
+            "properties": 
+            {
+                "name": "ГБУК Музей М.А Булгакова (Bulgakov's Museum)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "25",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.607876, 55.761451]
+            },
+            "properties": 
+            {
+                "name": "Дом генерал-губернаторов (Мэрия Москвы) (City Hall)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "26",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.609301, 55.759693]
+            },
+            "properties": 
+            {
+                "name": "Телеграф (Telegraph)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "27",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.603884, 55.756184]
+            },
+            "properties": 
+            {
+                "name": "Московская государственная консерватория имени П. И. Чайковского (Moscow Tchaikovsky Conservatory)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "28",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.605055, 55.757991]
+            },
+            "properties": 
+            {
+                "name": "Англиканская церковь Святого Андрея (St. Andrew's Anglican Church)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "29",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.622103, 55.764265]
+            },
+            "properties": 
+            {
+                "name": "Сандуны (Sanduny)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "30",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.609101, 55.770838]
+            },
+            "properties": 
+            {
+                "name": "Сад Эрмитаж (Hermitage Garden)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "31",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.631164, 55.760508]
+            },
+            "properties": 
+            {
+                "name": "Усадьба Салтыковых-Чертковых (Saltykov-Chertkov Manor)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "32",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.634815, 55.761497]
+            },
+            "properties": 
+            {
+                "name": "Самый старый жилой дом (The Oldest House)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "33",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.639195, 55.762931]
+            },
+            "properties": 
+            {
+                "name": "Храм Архангела Гавриила (Menshikov Tower)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "34",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.644666, 55.761202]
+            },
+            "properties": 
+            {
+                "name": "Чистые пруды (Clean Ponds)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "35",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.648984, 55.762771]
+            },
+            "properties": 
+            {
+                "name": "Дом-Яйцо (Egg House)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "36",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.640914, 55.756750]
+            },
+            "properties": 
+            {
+                "name": "Евангелическо-Лютеранский Кафедральный Собор Святых Петра И Павла (Lutheran Cathedral of Saint Peter and Saint Paul)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "37",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.643100, 55.755356]
+            },
+            "properties": 
+            {
+                "name": "Морозовский садик (Morozov's Garden)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "38",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.637596, 55.754050]
+            },
+            "properties": 
+            {
+                "name": "Солянка, доходники, галерея (Solyanka)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "39",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.640032, 55.754618]
+            },
+            "properties": 
+            {
+                "name": "Иоанно-Предтеченский Женский Монастырь (Ivanovsky Convent)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "40",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.643569, 55.753210]
+            },
+            "properties": 
+            {
+                "name": "Хитровка (Khitrovka)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "41",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.644613, 55.754231]
+            },
+            "properties": 
+            {
+                "name": "Храм Трех Святителей На Кулишках (Khram Tryokh Svyatiteley na Kulishkakh)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "42",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.642799, 55.747228]
+            },
+            "properties": 
+            {
+                "name": "Котельническая (Kotelnicheskaya)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "43",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.584483, 55.746113]
+            },
+            "properties": 
+            {
+                "name": "Государственная Третьяковская галерея (Tretyakovskaya Gallery)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "44",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.623216, 55.737667]
+            },
+            "properties": 
+            {
+                "name": "Марфо-Мариинская обитель (Marfo-Mariinsky Convent)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "45",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.602980, 55.734770]
+            },
+            "properties": 
+            {
+                "name": "Парк искусств и Крымская набережная (Art Park and Crimean Embankment)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "46",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.649316, 55.741725]
+            },
+            "properties": 
+            {
+                "name": "Бункер-42 на Таганке (Bunker 42 on Taganka)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "47",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601641, 55.766178]
+            },
+            "properties": 
+            {
+                "name": "Государственный центральный музей современной истории России (Central Museum of Modern History)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "48",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601087, 55.728359]
+            },
+            "properties": 
+            {
+                "name": "Парк культуры и отдыха им. М.Горькогo (Gorky Park)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "49",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.556400, 55.726212]
+            },
+            "properties": 
+            {
+                "name": "Новодевичий Монастырь (Novodevichy Convent)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "50",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.587223, 55.717272]
+            },
+            "properties": 
+            {
+                "name": "Нескучный сад (Neskuchny Garden)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "51",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601839, 55.714678]
+            },
+            "properties": 
+            {
+                "name": "Донской монастырь (Donskoy Convent)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "52",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.670106, 55.749158]
+            },
+            "properties": 
+            {
+                "name": "Спасо-Андроников монастырь (Andronikov Monastery)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "53",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.662459, 55.760162]
+            },
+            "properties": 
+            {
+                "name": "Арма завод (Arma Factory)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "54",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.607946, 55.789258]
+            },
+            "properties": 
+            {
+                "name": "Еврейский музей и центр толерантности (Jewish Museum and Centre of Tolerance)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "55",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.559516, 55.778975]
+            },
+            "properties": 
+            {
+                "name": "Российские ипподромы (Russian Racecourse)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "56",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.669621, 55.670421]
+            },
+            "properties": 
+            {
+                "name": "Коломенское (Kolomenskoye)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "57",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.542291, 55.709474]
+            },
+            "properties": 
+            {
+                "name": "Смотровая площадка на Воробьёвых горах (Observation Deck On Vorobyevy Hills)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "58",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.629811, 55.830982]
+            },
+            "properties": 
+            {
+                "name": "Выставка достижений народного хозяйства (ВДНХ) (VDNKH)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "59",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.413211, 55.779928]
+            },
+            "properties": 
+            {
+                "name": "Серебряный Бор (Serebryany Bor)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "60",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.751063, 55.794198]
+            },
+            "properties": 
+            {
+                "name": "Кремль в Измайлово и вернисаж (Kremlin in Izmailovo)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "61",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.777558, 55.694984]
+            },
+            "properties": 
+            {
+                "name": "ПКиО Кузьминки (Kuzminki Park)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "62",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.686224, 55.611675]
+            },
+            "properties": 
+            {
+                "name": "Музей-заповедник Царицыно (Tsaritsyno Park)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "63",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.605686, 55.765493]
+            },
+            "properties": 
+            {
+                "name": "Пушкинская площадь (Pushkinskaya Square)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "64",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.583719, 55.761369]
+            },
+            "properties": 
+            {
+                "name": "Планетарий (Planetarium)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "65",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.576652, 55.763256]
+            },
+            "properties": 
+            {
+                "name": "Московский Зоопарк (Moscow Zoo)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "66",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.613011, 55.760236]
+            },
+            "properties": 
+            {
+                "name": "МХТ (Moscow Art Theatre)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "67",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.605155, 55.747251]
+            },
+            "properties": 
+            {
+                "name": "ГМИИ им. Пушкина (Pushkin Art Museum)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "68",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.626254, 55.738846]
+            },
+            "properties": 
+            {
+                "name": "Музей-усадьба Островского А.Н. (Dom-muzey A.N.Ostrovskogo)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "69",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.639834, 55.822721]
+            },
+            "properties": 
+            {
+                "name": "Музей космонавтики (Space Museum)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "70",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601708, 55.727776]
+            },
+            "properties": 
+            {
+                "name": "Музей современного искусства Гараж (Garage Museum of Contemporary Art)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "71",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.621177, 55.761772]
+            },
+            "properties": 
+            {
+                "name": "Музей Советских игровых автоматов (Museum of Soviet Playing Machines)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "72",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.629894, 55.757270]
+            },
+            "properties": 
+            {
+                "name": "Музей Политех (Polytech Museum)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "73",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.807463, 55.735295]
+            },
+            "properties": 
+            {
+                "name": "Усадьба Кусково (Kuskovo)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "74",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.611710, 55.819680]
+            },
+            "properties": 
+            {
+                "name": "Останкино (Ostankino Tower)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "75",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.626983, 55.778834]
+            },
+            "properties": 
+            {
+                "name": "Соборная мечеть (Moscow Cathedral Mosque)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "76",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.624592, 55.741463]
+            },
+            "properties": 
+            {
+                "name": "Храм Баженова на Большой Ордынке (Church of the Theotokos Joy of All Who Sorrow)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "77",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.611658, 55.717259]
+            },
+            "properties": 
+            {
+                "name": "Шуховская башня (Shukhov Tower)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "78",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.620075, 55.771175]
+            },
+            "properties": 
+            {
+                "name": "Цветной (Tsvetnoy Central Market)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "79",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.606871, 55.762659]
+            },
+            "properties": 
+            {
+                "name": "Фаланстер (Falanster)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "80",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.609346, 55.762046]
+            },
+            "properties": 
+            {
+                "name": "Москва (книжный) (Moscow (Book Store))",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "81",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.664694, 55.755370]
+            },
+            "properties": 
+            {
+                "name": "Cosmotheca",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "82",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.585663, 55.757608]
+            },
+            "properties": 
+            {
+                "name": "Leform",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "83",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.624261, 55.761987]
+            },
+            "properties": 
+            {
+                "name": "КМ20",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "84",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.595115, 55.757265]
+            },
+            "properties": 
+            {
+                "name": "Сахарок (Sakharok)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "85",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.620572, 55.712196]
+            },
+            "properties": 
+            {
+                "name": "Даниловский рынок (Danilovsky Market)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "86",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.554368, 55.742722]
+            },
+            "properties": 
+            {
+                "name": "Дорогомиловский рынок (Dorogomilovsky Market)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "87",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.595792, 55.775955]
+            },
+            "properties": 
+            {
+                "name": "LavkaLavka",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "88",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.595222, 55.762732]
+            },
+            "properties": 
+            {
+                "name": "Grand Cru",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "89",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.619811, 55.760881]
+            },
+            "properties": 
+            {
+                "name": "ЦУМ (TSUM)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "90",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.606830, 55.737490]
+            },
+            "properties": 
+            {
+                "name": "Корабль Брюсов (Brusov Ship)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "91",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.648050, 55.760204]
+            },
+            "properties": 
+            {
+                "name": "Don Giulio Salumeria",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "92",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.629800, 55.830976]
+            },
+            "properties": 
+            {
+                "name": "Городская ферма на ВДНХ (City Farm at VDNKH)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "93",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.531204, 55.790326]
+            },
+            "properties": 
+            {
+                "name": "Кидзания (Kidzania)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "94",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.618398, 55.832788]
+            },
+            "properties": 
+            {
+                "name": "Океанариум (Oceanarium)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "95",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.609984, 55.739811]
+            },
+            "properties": 
+            {
+                "name": "Центр фотографии братьев Люмьер (The Lumier Brothers Photo Center)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "96",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.549869, 55.745032]
+            },
+            "properties": 
+            {
+                "name": "Кинотеатр Пионер (Pioner Cinema)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "97",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.593141, 55.736399]
+            },
+            "properties": 
+            {
+                "name": "Центр документального кино (Center of Documentary Cinematography)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "98",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601634, 55.766230]
+            },
+            "properties": 
+            {
+                "name": "Электротеатр Станиславский (Electrotheatre Stanislavsky)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "99",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.662251, 55.762341]
+            },
+            "properties": 
+            {
+                "name": "Гоголь-центр (Gogol' Center)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "100",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.596282, 55.768834]
+            },
+            "properties": 
+            {
+                "name": "Зал Чайковского (Thchaikovsky Concert Hall)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "101",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.596399, 55.736516]
+            },
+            "properties": 
+            {
+                "name": "Бассейн Чайка",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "102",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.600362, 55.762681]
+            },
+            "properties": 
+            {
+                "name": "Birdie (женская) (Womens Hair Salon)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "103",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.600956, 55.768464]
+            },
+            "properties": 
+            {
+                "name": "Noir (мужская) (Mens Hair Salon)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "104",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.598377, 55.765273]
+            },
+            "properties": 
+            {
+                "name": "Тату-Студия Faux Pas (Tatoo Salon)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "105",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601592, 55.728139]
+            },
+            "properties": 
+            {
+                "name": "Беговой Клуб в Парке Горького (Nike Running Club at Gorky Park)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "106",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.413254, 55.779946]
+            },
+            "properties": 
+            {
+                "name": "Серебряный бор (Serebryany Bor)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "107",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.646344, 55.745743]
+            },
+            "properties": 
+            {
+                "name": "Powerhouse",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "108",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.594476, 55.709595]
+            },
+            "properties": 
+            {
+                "name": "Yotaspace",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "109",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.614546, 55.762727]
+            },
+            "properties": 
+            {
+                "name": "Симачев (Simachev Shop & Bar)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "110",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.610992, 55.772430]
+            },
+            "properties": 
+            {
+                "name": "Деликатессен (Delicatessen)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "111",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.614794, 55.760814]
+            },
+            "properties": 
+            {
+                "name": "Техникум (Technikum)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "112",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.642296, 55.768922]
+            },
+            "properties": 
+            {
+                "name": "Южане (Ujane)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "113",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.606740, 55.756431]
+            },
+            "properties": 
+            {
+                "name": "Северяне (Severyane)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "114",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.596496, 55.760108]
+            },
+            "properties": 
+            {
+                "name": "Twins",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "115",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601027, 55.744544]
+            },
+            "properties": 
+            {
+                "name": "Воронеж (Voronezh)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "116",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.583816, 55.742040]
+            },
+            "properties": 
+            {
+                "name": "BBQ Brisket",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "117",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.609241, 55.742575]
+            },
+            "properties": 
+            {
+                "name": "Strelka bar",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "118",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.593798, 55.768739]
+            },
+            "properties": 
+            {
+                "name": "Time Out bar",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "119",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [55.756737, 37.614280]
+            },
+            "properties": 
+            {
+                "name": "Dr. Живаго (Dr. Zhivago)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "120",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.581085, 55.747558]
+            },
+            "properties": 
+            {
+                "name": "White Rabbit",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "121",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.598074, 55.760191]
+            },
+            "properties": 
+            {
+                "name": "Иерусалим (Jerusalem)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "122",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.604985, 55.763688]
+            },
+            "properties": 
+            {
+                "name": "Пушкин (Pushkin)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "123",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.595554, 55.762338]
+            },
+            "properties": 
+            {
+                "name": "Uilliam's",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "124",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.662827, 55.762184]
+            },
+            "properties": 
+            {
+                "name": "Чито-Ра (Chito-Ra)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "125",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.627181, 55.745579]
+            },
+            "properties": 
+            {
+                "name": "Mitzva",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "126",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.600236, 55.778896]
+            },
+            "properties": 
+            {
+                "name": "Кухня и общепит (Kukhnya and Obshepit)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "127",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.605247, 55.763215]
+            },
+            "properties": 
+            {
+                "name": "Хачапури (Khachapuri)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "128",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.629778, 55.742882]
+            },
+            "properties": 
+            {
+                "name": "Вай мэ! (Vai Me!)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "129",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.636105, 55.761666]
+            },
+            "properties": 
+            {
+                "name": "Одесса-мама (Odessa-Mama)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "130",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.590505, 55.764224]
+            },
+            "properties": 
+            {
+                "name": "Москва-Дели (Moscow Deli)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "131",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.601078, 55.779995]
+            },
+            "properties": 
+            {
+                "name": "Дружба (китайская) (Drujba (Chinese))",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "132",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.595134, 55.764100]
+            },
+            "properties": 
+            {
+                "name": "Сutfish",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "133",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.593139, 55.708950]
+            },
+            "properties": 
+            {
+                "name": "Корё (северокорейская) (Korë (North Korean))",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "134",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.602275, 55.746047]
+            },
+            "properties": 
+            {
+                "name": "Pinzeria by Bontempi",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "135",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.604907, 55.756630]
+            },
+            "properties": 
+            {
+                "name": "Кофемания на Большой Никитской (Coffeemania on Bolshaya Nikitskaya)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "136",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.614182, 55.763814]
+            },
+            "properties": 
+            {
+                "name": "Энтузиаст (Enthusiast)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "137",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.625502, 55.769704]
+            },
+            "properties": 
+            {
+                "name": "Юность (Unost')",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "138",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.584260, 55.805680]
+            },
+            "properties": 
+            {
+                "name": "Искра (Секретный Бар в подвале) (Iskra with a bar downstairs)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "139",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.597767, 55.768706]
+            },
+            "properties": 
+            {
+                "name": "Бутебродрная у Славика / Бутерброд (Butterbread)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "140",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.615021, 55.763158]
+            },
+            "properties": 
+            {
+                "name": "Лепим и варим (Lepim & Varim)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "141",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.632235, 55.756807]
+            },
+            "properties": 
+            {
+                "name": "Джелатерия Пломбир (Gelateria Plombir)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "142",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.586770, 55.773631]
+            },
+            "properties": 
+            {
+                "name": "Upside Down Cake",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "143",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.598457, 55.764044]
+            },
+            "properties": 
+            {
+                "name": "David B.",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "144",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.600775, 55.767018]
+            },
+            "properties": 
+            {
+                "name": "Noor Electro",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "145",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.599708, 55.756994]
+            },
+            "properties": 
+            {
+                "name": "Drink your Seoul (+ Crabs Are Coming)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "146",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.604592, 55.763116]
+            },
+            "properties": 
+            {
+                "name": "Фаренгейт (Farenheit)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "147",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.617281, 55.764129]
+            },
+            "properties": 
+            {
+                "name": "Менделеев бар (Mendeleev Bar) (+ Lucky Noodles)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "148",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.632544, 55.769709]
+            },
+            "properties": 
+            {
+                "name": "Beer Happens",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "149",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.606829, 55.762653]
+            },
+            "properties": 
+            {
+                "name": "Все твои друзья (All Your Friends)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "150",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.608463, 55.765061]
+            },
+            "properties": 
+            {
+                "name": "Бирмаркет (Beer Market)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "151",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.593126, 55.740580]
+            },
+            "properties": 
+            {
+                "name": "Дом 12 (Dom 12 Cafe)",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "152",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.635230, 55.767533]
+            },
+            "properties": 
+            {
+                "name": "Bobby Dazzler Pub",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "id": "153",
+            "geometry": 
+            {
+                "type": "Point",
+                "coordinates": [37.616924, 55.763854]
+            },
+            "properties": 
+            {
+                "name": "Haggis",
+                "icon": "/static/images/icons/map-marker-do.png"
+            }
+        }
+    ]
+}
